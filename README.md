@@ -27,3 +27,30 @@
 ## Contact Information 
 
 Tajo Fisher _tajofisher4@gmail.com_
+
+```javascript
+
+Describe:
+Test:
+Code:
+Expected Output:
+
+Describe:
+Test:
+Code:
+Expected Output:
+
+Describe:
+Test:
+Code:
+Expected Output:
+
+Describe:
+Test:
+Code:
+Expected Output:
+
+Describe:
+Test:
+Code:
+Expected Output:
