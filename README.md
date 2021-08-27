@@ -30,25 +30,25 @@ Tajo Fisher _tajofisher4@gmail.com_
 
 ```javascript
 
-Describe:
-Test:
+Describe: name()
+Test: "check name of person"
+Code:
+Expected Output: "name"
+
+Describe: pizza()
+Test: "Check the pizza"
 Code:
 Expected Output:
 
-Describe:
-Test:
+Describe: count
+Test: "count the pizza"
 Code:
-Expected Output:
+Expected Output: "pizza"
 
-Describe:
-Test:
+Describe: "kinds"
+Test: "number of kinds"
 Code:
-Expected Output:
-
-Describe:
-Test:
-Code:
-Expected Output:
+Expected Output: "kinds"
 
 Describe:
 Test:
